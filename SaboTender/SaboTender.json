@@ -1,0 +1,22 @@
+{
+  "Author": "Garsooon",
+  "Name": "SaboTender",
+  "Punchline": "Automatically selects 'Tend to crop' in gardening menus",
+  "Description": "This plugin automatically selects the 'Tend to crop' option when you interact with plants in your garden, saving you time and repetitive clicking. Simply enable the plugin and it will handle the menu selection for you.",
+  "InternalName": "SaboTender",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/Garsooon/SaboTender",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gardening",
+    "automation",
+    "quality of life",
+    "farming"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "IconUrl": ""
+}
